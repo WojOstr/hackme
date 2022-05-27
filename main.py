@@ -48,8 +48,8 @@ for i in range(1000):
 new_l = delete_copies(l)
 
 
-with open('data.json', 'w+', encoding='utf-8') as f:
-    json.dump(new_l, f, ensure_ascii=False, indent=4)
+#with open('data.json', 'w+', encoding='utf-8') as f:
+    #json.dump(new_l, f, ensure_ascii=False, indent=4)
 """
 
 
