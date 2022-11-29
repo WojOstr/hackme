@@ -57,7 +57,9 @@ for letter in encoded_text:
 ```
 ### Result
 
-<details><summary>85 
+<details><summary>Step by step results of decoding</summary>
+```console
+85 
 38 C
 89 Co
 60 Con
@@ -146,7 +148,7 @@ for letter in encoded_text:
 48 Congratulations, this is a test encoding done for github Readme.md! Welcome all reader
 85 Congratulations, this is a test encoding done for github Readme.md! Welcome allreaders
 Congratulations, this is a test encoding done for github Readme.md! Welcome all readersC
-</summary></details>
+```</details>
 
 ## Conclusion
 
